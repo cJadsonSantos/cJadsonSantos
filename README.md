@@ -2,8 +2,7 @@
 
 
 - 📚 Formado em analise de sistemas ...
-- 🌱 Desenvolvedor PHP ...
-- 💻 JOBS Programador/Design : 💬 cjadsonsantos@hotmail.com
+- 💻 Developer Laravel |Axios| Vue Js : 💬 cjadsonsantos@hotmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
