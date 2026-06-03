@@ -2,7 +2,7 @@
 
 # Olá, eu sou Jadson Santos
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Laravel+%7C+Vue.js+%7C+Axios;Formado+em+Analise+de+Sistemas;Construindo+APIs%2C+sistemas+web+e+interfaces+modernas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Laravel+%7C+Vue.js+%7C+Axios;Formado+em+Análise+de+Sistemas;Construindo+APIs%2C+sistemas+web+e+interfaces+modernas" alt="Typing SVG" />
 
 </div>
 
