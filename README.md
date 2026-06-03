@@ -18,12 +18,13 @@
 
 Sou desenvolvedor com **formação em Análise de Sistemas**, atuando principalmente no desenvolvimento de aplicações web robustas e escaláveis. Especializado em **backend com Laravel** e **frontend com Vue.js**, buscando constantemente melhorar minhas habilidades e conhecimentos.
 
-Tenho grande interesse em:
-- ✅ Backend e APIs REST
+Com experiência em:
+- ✅ Backend e APIs REST com Laravel
 - ✅ Integração entre sistemas
-- ✅ Frontend responsivo e moderno
+- ✅ Frontend responsivo com Vue.js e frameworks modernos
 - ✅ Boas práticas e código limpo
-- ✅ Arquitetura de software
+- ✅ Arquitetura de software e Design Patterns
+- ✅ Docker e containerização
 
 **Pronomes:** ele/dele | **Localização:** Brasil
 
@@ -39,8 +40,10 @@ Tenho grande interesse em:
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -48,7 +51,14 @@ Tenho grande interesse em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,java,git,github,vscode,mysql,postman" alt="Tech Stack">
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -78,13 +88,20 @@ Tenho grande interesse em:
 
 ## 🚀 Projetos em Destaque
 
-Aqui estão alguns dos meus projetos principais:
+### 🐳 [docker-laravel](https://github.com/cJadsonSantos/docker-laravel)
+Setup completo para novo projeto Laravel com Docker Compose
+- **Tech:** Laravel, Docker, Docker Compose, MySQL
+- **Descrição:** Repo pronto para iniciar novos projetos Laravel com ambiente containerizado
 
-- 📱 **[Projeto Laravel API](https://github.com/cJadsonSantos/)** - API REST com Laravel e autenticação JWT
-- 🌐 **[Dashboard Vue.js](https://github.com/cJadsonSantos/)** - Dashboard responsivo com Vue.js e Bootstrap
-- 💼 **[Sistema Web](https://github.com/cJadsonSantos/)** - Sistema completo com Laravel e Vue.js
+### 📚 [DesignPatternsPHP](https://github.com/cJadsonSantos/DesignPatternsPHP)
+Exemplos práticos de Design Patterns em PHP 8.x
+- **Tech:** PHP 8.x, SOLID, Design Patterns
+- **Descrição:** Código comentado com implementações de padrões de design essenciais
 
-*Confira mais projetos no meu [perfil do GitHub](https://github.com/cJadsonSantos)*
+### 🎨 [shadcn-vue-landing-page](https://github.com/cJadsonSantos/shadcn-vue-landing-page)
+Template de landing page moderno e responsivo
+- **Tech:** Vue.js, TypeScript, Tailwind CSS, Shadcn-vue
+- **Descrição:** Landing page template pronto para usar, com design moderno e fácil customização
 
 ---
 
@@ -92,19 +109,30 @@ Aqui estão alguns dos meus projetos principais:
 
 ### Desenvolvedor Full Stack
 **Período:** Jan 2024 - Presente
-- Desenvolvimento de aplicações web com Laravel e Vue.js
-- Criação e consumo de APIs REST
-- Implementação de funcionalidades frontend responsivas
+
+**Responsabilidades:**
+- Desenvolvimento de aplicações web completas com Laravel e Vue.js
+- Criação e consumo de APIs REST com autenticação JWT
+- Implementação de funcionalidades frontend responsivas e interativas
 - Otimização de performance e segurança
+- Documentação de código e arquitetura
+- Implementação de boas práticas e padrões de design
+
+**Projetos:**
+- APIs REST escaláveis com Laravel
+- Dashboards interativos com Vue.js
+- Sistemas web completos com arquitetura moderna
 
 ---
 
 ## 🎓 Certificações & Cursos
 
-- 🎯 Análise de Sistemas (Formação Acadêmica)
+- 🎯 **Análise de Sistemas** (Formação Acadêmica)
 - 📖 Desenvolvimento Web com Laravel
-- 📖 Frontend com Vue.js
-- 📖 Práticas de Clean Code
+- 📖 Frontend com Vue.js 3
+- 📖 Design Patterns em PHP
+- 📖 Docker e Containerização
+- 📖 Arquitetura de Software
 
 ---
 
@@ -121,6 +149,16 @@ Estou aberto a oportunidades de trabalho, colaborações e conversas sobre desen
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cjadsonsantos@hotmail.com)
 
 **Email:** cjadsonsantos@hotmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+### 📁 Mais Projetos
+
+Confira [todos os meus repositórios](https://github.com/cJadsonSantos?tab=repositories) para ver mais projetos e experimentos!
 
 </div>
 
