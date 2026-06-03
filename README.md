@@ -1,4 +1,3 @@
-```md
 ## Ola, eu sou Jadson Santos
 
 Desenvolvedor formado em Analise de Sistemas, atuando principalmente com Laravel, Vue.js, Axios e desenvolvimento web. Tenho interesse em solucoes bem estruturadas, integracao entre frontend e backend e evolucao continua como desenvolvedor.
@@ -44,4 +43,3 @@ Desenvolvedor formado em Analise de Sistemas, atuando principalmente com Laravel
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-```
