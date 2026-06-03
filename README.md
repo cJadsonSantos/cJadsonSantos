@@ -1,4 +1,4 @@
-## Ola, eu sou Jadson Santos
+## Olá, eu sou Jadson Santos
 
 Desenvolvedor formado em Analise de Sistemas, atuando principalmente com Laravel, Vue.js, Axios e desenvolvimento web.
 
