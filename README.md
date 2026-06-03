@@ -2,7 +2,7 @@
 
 # Olá, eu sou Jadson Santos 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Laravel+%7C+Vue.js+%7C+PHP;Apaixonado+por+clean+code" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Laravel+%7C+Vue.js+%7C+PHP;Criando+soluções+web+robustas!" alt="Typing SVG" />
 
 **Desenvolvedor Full Stack apaixonado por criar soluções web robustas com foco em performance e boas práticas.**
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💼 Sobre mim
 
-Sou desenvolvedor com **formação em Análise de Sistemas**, atuando principalmente no desenvolvimento de aplicações web robustas e escaláveis. Especializado em **backend com Laravel** e **frontend com Vue.js**, buscando constantemente melhorar minhas habilidades e conhecimentos.
+Sou desenvolvedor com **formação em Análise de Sistemas**, atuando principalmente no desenvolvimento de aplicações web robustas e escaláveis. Especializado em **backend com Laravel** e **frontend com Vue.js**.
 
 Com experiência em:
 - ✅ Backend e APIs REST com Laravel
@@ -68,7 +68,7 @@ Com experiência em:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Aprofundando+em+Laravel+Avancado;Design+Patterns;Arquitetura+de+Microsserviços;Docker+e+Containerização" alt="Learning Typing">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Aprofundando+em+Laravel+Avancado;Design+Patterns+Avancados;Cloud+e+DevOps;CI%2FCD+e+Arquitetura" alt="Typing SVG - Learning" />
 
 </div>
 
