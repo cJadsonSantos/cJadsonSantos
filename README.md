@@ -1,13 +1,14 @@
-## Ol�, eu sou Jadson Santos
+```md
+## Ola, eu sou Jadson Santos
 
-Desenvolvedor com forma��o em An�lise de Sistemas, atuando principalmente com Laravel, Vue.js, Axios e desenvolvimento web. Tenho interesse em solu��es bem estruturadas, integra��o entre frontend e backend e evolu��o cont�nua como desenvolvedor.
+Desenvolvedor formado em Analise de Sistemas, atuando principalmente com Laravel, Vue.js, Axios e desenvolvimento web. Tenho interesse em solucoes bem estruturadas, integracao entre frontend e backend e evolucao continua como desenvolvedor.
 
 ## Sobre mim
 
-- Formado em An�lise de Sistemas
+- Formado em Analise de Sistemas
 - Desenvolvedor Laravel, Vue.js e Axios
-- Experi�ncia com PHP, JavaScript, HTML, CSS e Bootstrap
-- Interesse em backend, APIs REST, frontend moderno e boas pr�ticas de desenvolvimento
+- Experiencia com PHP, JavaScript, HTML, CSS e Bootstrap
+- Interesse em backend, APIs REST, frontend moderno e boas praticas de desenvolvimento
 - Contato: cjadsonsantos@hotmail.com
 - Pronomes: ele/dele
 
@@ -24,7 +25,7 @@ Desenvolvedor com forma��o em An�lise de Sistemas, atuando principalmente 
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Estat�sticas
+## Estatisticas
 
 <div align="center">
   <a href="https://github.com/cJadsonSantos">
@@ -43,3 +44,4 @@ Desenvolvedor com forma��o em An�lise de Sistemas, atuando principalmente 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+```
