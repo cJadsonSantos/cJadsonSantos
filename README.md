@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor com formacao em Analise de Sistemas, atuando principalmente no desenvolvimento de aplicacoes web com Laravel, Vue.js, Axios, PHP e JavaScript.
+Sou desenvolvedor com formação em Analise de Sistemas, atuando principalmente no desenvolvimento de aplicacoes web com Laravel, Vue.js, Axios, PHP e JavaScript.
 
 Tenho interesse em backend, APIs REST, integracao entre sistemas, frontend moderno e boas praticas de desenvolvimento.
 
