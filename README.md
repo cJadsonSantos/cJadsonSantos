@@ -2,7 +2,7 @@
 
 # Olá, eu sou Jadson Santos 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Laravel+%7C+Vue.js+%7C+PHP;APIs+REST+e+Sistemas+Web" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Laravel+%7C+Vue.js+%7C+PHP;Apaixonado+por+clean+code" alt="Typing SVG">
 
 **Desenvolvedor Full Stack apaixonado por criar soluções web robustas com foco em performance e boas práticas.**
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💼 Sobre mim
 
-Sou desenvolvedor com **formação em Análise de Sistemas**, atuando principalmente no desenvolvimento de aplicações web robustas e escaláveis. Especializado em **backend com Laravel** e **frontend moderno com Vue.js**.
+Sou desenvolvedor com **formação em Análise de Sistemas**, atuando principalmente no desenvolvimento de aplicações web robustas e escaláveis. Especializado em **backend com Laravel** e **frontend com Vue.js**, buscando constantemente melhorar minhas habilidades e conhecimentos.
 
 Tenho grande interesse em:
 - ✅ Backend e APIs REST
@@ -48,7 +48,7 @@ Tenho grande interesse em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,java,git,github,vscode,mysql,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,java,git,github,vscode,mysql,postman" alt="Tech Stack">
 
 </div>
 
@@ -58,7 +58,7 @@ Tenho grande interesse em:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Aprofundando+em+Laravel+Avancado;Design+Patterns+e+Arquitetura;Docker+e+Containerizacao;Testing+e+TDD;Otimizacao+de+Performance" alt="Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Aprofundando+em+Laravel+Avancado;Design+Patterns;Arquitetura+de+Microsserviços;Docker+e+Containerização" alt="Learning Typing">
 
 </div>
 
@@ -80,9 +80,9 @@ Tenho grande interesse em:
 
 Aqui estão alguns dos meus projetos principais:
 
-- 📱 **[Seu Projeto 1](https://github.com/cJadsonSantos/)** - Breve descrição do projeto
-- 🌐 **[Seu Projeto 2](https://github.com/cJadsonSantos/)** - Breve descrição do projeto
-- 💼 **[Seu Projeto 3](https://github.com/cJadsonSantos/)** - Breve descrição do projeto
+- 📱 **[Projeto Laravel API](https://github.com/cJadsonSantos/)** - API REST com Laravel e autenticação JWT
+- 🌐 **[Dashboard Vue.js](https://github.com/cJadsonSantos/)** - Dashboard responsivo com Vue.js e Bootstrap
+- 💼 **[Sistema Web](https://github.com/cJadsonSantos/)** - Sistema completo com Laravel e Vue.js
 
 *Confira mais projetos no meu [perfil do GitHub](https://github.com/cJadsonSantos)*
 
@@ -90,22 +90,21 @@ Aqui estão alguns dos meus projetos principais:
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor [Empresa/Freelancer]
+### Desenvolvedor Full Stack
 **Período:** Jan 2024 - Presente
 - Desenvolvimento de aplicações web com Laravel e Vue.js
 - Criação e consumo de APIs REST
 - Implementação de funcionalidades frontend responsivas
-
-> 💡 **Nota:** Adicione sua experiência profissional aqui
+- Otimização de performance e segurança
 
 ---
 
 ## 🎓 Certificações & Cursos
 
 - 🎯 Análise de Sistemas (Formação Acadêmica)
-- 📖 Cursos em desenvolvimento web e programação
-
-> 💡 **Nota:** Adicione certificações relevantes aqui
+- 📖 Desenvolvimento Web com Laravel
+- 📖 Frontend com Vue.js
+- 📖 Práticas de Clean Code
 
 ---
 
@@ -129,6 +128,6 @@ Estou aberto a oportunidades de trabalho, colaborações e conversas sobre desen
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=120&section=footer" alt="Footer">
 
 </div>
