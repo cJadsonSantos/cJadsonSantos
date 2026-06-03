@@ -1,78 +1,127 @@
 <div align="center">
 
-# Olá, eu sou Jadson Santos
+# Olá, eu sou Jadson Santos 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Laravel+%7C+Vue.js+%7C+Axios;Formado+em+Análise+de+Sistemas;Construindo+APIs%2C+sistemas+web+e+interfaces+modernas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Laravel+%7C+Vue.js+%7C+PHP;APIs+REST+e+Sistemas+Web" alt="Typing Animation" />
 
-</div>
+**Desenvolvedor Full Stack apaixonado por criar soluções web robustas com foco em performance e boas práticas.**
 
----
-
-## Sobre mim
-
-Sou desenvolvedor com formação em Analise de Sistemas, atuando principalmente no desenvolvimento de aplicacoes web com Laravel, Vue.js, Axios, PHP e JavaScript.
-
-Tenho interesse em backend, APIs REST, integracao entre sistemas, frontend moderno e boas praticas de desenvolvimento.
-
-- Desenvolvedor Laravel, Vue.js e Axios
-- Experiencia com PHP, JavaScript, HTML, CSS e Bootstrap
-- Interesse em APIs, sistemas administrativos e aplicacoes web
-- Foco em organizacao, manutencao de codigo e evolucao continua
-- Contato: cjadsonsantos@hotmail.com
-- Pronomes: ele/dele
-
----
-
-## Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,bootstrap,java,git,github,vscode" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjadsonsantos)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:cjadsonsantos@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cJadsonSantos)
 
 </div>
 
 ---
 
-## Stack principal
+## 👨‍💼 Sobre mim
+
+Sou desenvolvedor com **formação em Análise de Sistemas**, atuando principalmente no desenvolvimento de aplicações web robustas e escaláveis. Especializado em **backend com Laravel** e **frontend moderno com Vue.js**.
+
+Tenho grande interesse em:
+- ✅ Backend e APIs REST
+- ✅ Integração entre sistemas
+- ✅ Frontend responsivo e moderno
+- ✅ Boas práticas e código limpo
+- ✅ Arquitetura de software
+
+**Pronomes:** ele/dele | **Localização:** Brasil
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 🔧 Stack Principal
 
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
----
-
-## Em evolucao
+### 💻 Ferramentas e Outras Tecnologias
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Backend+com+Laravel;Frontend+com+Vue.js;Consumo+de+APIs+com+Axios;Boas+praticas+e+codigo+limpo" alt="Typing SVG" />
+<img src="https://skillicons.dev/icons?i=html,css,java,git,github,vscode,mysql,postman" />
 
 </div>
 
 ---
 
-## Onde me encontrar
+## 📚 Em Evolução
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/cjadsonsantos" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Aprofundando+em+Laravel+Avancado;Design+Patterns+e+Arquitetura;Docker+e+Containerizacao;Testing+e+TDD;Otimizacao+de+Performance" alt="Learning" />
 
-<a href="https://instagram.com/jadsoncsantos" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+</div>
 
-<a href="mailto:cjadsonsantos@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=cJadsonSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/cJadsonSantos)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cJadsonSantos&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/cJadsonSantos)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+Aqui estão alguns dos meus projetos principais:
+
+- 📱 **[Seu Projeto 1](https://github.com/cJadsonSantos/)** - Breve descrição do projeto
+- 🌐 **[Seu Projeto 2](https://github.com/cJadsonSantos/)** - Breve descrição do projeto
+- 💼 **[Seu Projeto 3](https://github.com/cJadsonSantos/)** - Breve descrição do projeto
+
+*Confira mais projetos no meu [perfil do GitHub](https://github.com/cJadsonSantos)*
+
+---
+
+## 💼 Experiência Profissional
+
+### Desenvolvedor [Empresa/Freelancer]
+**Período:** Jan 2024 - Presente
+- Desenvolvimento de aplicações web com Laravel e Vue.js
+- Criação e consumo de APIs REST
+- Implementação de funcionalidades frontend responsivas
+
+> 💡 **Nota:** Adicione sua experiência profissional aqui
+
+---
+
+## 🎓 Certificações & Cursos
+
+- 🎯 Análise de Sistemas (Formação Acadêmica)
+- 📖 Cursos em desenvolvimento web e programação
+
+> 💡 **Nota:** Adicione certificações relevantes aqui
+
+---
+
+## 📧 Vamos Trabalhar Junto?
+
+Estou aberto a oportunidades de trabalho, colaborações e conversas sobre desenvolvimento!
+
+<div align="center">
+
+### 📬 Entre em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjadsonsantos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jadsoncsantos)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cjadsonsantos@hotmail.com)
+
+**Email:** cjadsonsantos@hotmail.com
 
 </div>
 
