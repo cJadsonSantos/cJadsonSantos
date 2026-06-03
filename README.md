@@ -1,6 +1,6 @@
 ## Ola, eu sou Jadson Santos
 
-Desenvolvedor formado em Analise de Sistemas, atuando principalmente com Laravel, Vue.js, Axios e desenvolvimento web. Tenho interesse em solucoes bem estruturadas, integracao entre frontend e backend e evolucao continua como desenvolvedor.
+Desenvolvedor formado em Analise de Sistemas, atuando principalmente com Laravel, Vue.js, Axios e desenvolvimento web.
 
 ## Sobre mim
 
@@ -22,15 +22,6 @@ Desenvolvedor formado em Analise de Sistemas, atuando principalmente com Laravel
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-## Estatisticas
-
-<div align="center">
-  <a href="https://github.com/cJadsonSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cJadsonSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cJadsonSantos&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
 </div>
 
 ## Onde me encontrar
