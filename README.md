@@ -1,30 +1,45 @@
-### Olá, sou Jadson 👋
+## Ol�, eu sou Jadson Santos
 
+Desenvolvedor com forma��o em An�lise de Sistemas, atuando principalmente com Laravel, Vue.js, Axios e desenvolvimento web. Tenho interesse em solu��es bem estruturadas, integra��o entre frontend e backend e evolu��o cont�nua como desenvolvedor.
 
-- 📚 Formado em analise de sistemas ...
-- 💻 Developer Laravel |Axios| Vue Js : 💬 cjadsonsantos@hotmail.com
-- 😄 Pronouns: ele/dele
+## Sobre mim
+
+- Formado em An�lise de Sistemas
+- Desenvolvedor Laravel, Vue.js e Axios
+- Experi�ncia com PHP, JavaScript, HTML, CSS e Bootstrap
+- Interesse em backend, APIs REST, frontend moderno e boas pr�ticas de desenvolvimento
+- Contato: cjadsonsantos@hotmail.com
+- Pronomes: ele/dele
+
+## Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+## Estat�sticas
 
 <div align="center">
   <a href="https://github.com/cJadsonSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cJadsonSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cJadsonSantos&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cJadsonSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cJadsonSantos&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jadson-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Jadson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Jadson-JA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   <img align="center" alt="Jadson-JA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Jadson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Jadson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Jadson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jadson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
+
+## Onde me encontrar
+
+<div>
+  <a href="https://instagram.com/jadsoncsantos" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/cjadsonsantos" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
-  
-  ##
-  
-  <div>
-    <a href="https://instagram.com/jadsoncsantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-      <a href="https://www.linkedin.com/in/cjadsonsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
