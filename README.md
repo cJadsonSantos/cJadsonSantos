@@ -16,7 +16,7 @@
 
 ## 👨‍💼 Sobre mim
 
-Sou desenvolvedor com **formação em Análise de Sistemas**, atuando principalmente no desenvolvimento de aplicações web robustas e escaláveis. Especializado em **backend com Laravel** e **frontend com Vue.js**.
+Sou desenvolvedor com **formação em Análise de Sistemas** e **+5 anos de experiência**, atuando principalmente no desenvolvimento de aplicações web robustas e escaláveis. Especializado em **backend com Laravel** e **frontend com Vue.js**.
 
 Com experiência em:
 - ✅ Backend e APIs REST com Laravel
@@ -25,6 +25,7 @@ Com experiência em:
 - ✅ Boas práticas e código limpo
 - ✅ Arquitetura de software e Design Patterns
 - ✅ Docker e containerização
+- ✅ Liderança técnica e mentoria de desenvolvedores
 
 **Pronomes:** ele/dele | **Localização:** Brasil
 
@@ -107,8 +108,8 @@ Template de landing page moderno e responsivo
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor Full Stack
-**Período:** Jan 2024 - Presente
+### Desenvolvedor Full Stack Senior
+**Período:** Há mais de 5 anos
 
 **Responsabilidades:**
 - Desenvolvimento de aplicações web completas com Laravel e Vue.js
@@ -117,11 +118,15 @@ Template de landing page moderno e responsivo
 - Otimização de performance e segurança
 - Documentação de código e arquitetura
 - Implementação de boas práticas e padrões de design
+- Arquitetura de soluções escaláveis
+- Mentoria e liderança técnica de equipes
 
 **Projetos:**
 - APIs REST escaláveis com Laravel
 - Dashboards interativos com Vue.js
 - Sistemas web completos com arquitetura moderna
+- Sistemas legados modernizados
+- Infraestrutura em Docker e DevOps
 
 ---
 
